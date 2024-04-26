@@ -5,7 +5,7 @@
   
 }
 body{background-color: rgba(0, 0, 0, 1);}
-.imgbox{background-image: url('../assets/Images/Background image.png');
+.imgbox{background-image: url('./assets/Images/Background image.png');
 
 padding: 10px;}   
 #img{
